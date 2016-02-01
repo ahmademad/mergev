@@ -1,0 +1,11 @@
+Package: mergev
+Version: 0.1.1
+Date: 2015-05-12
+Title: Verbose Merge
+Authors@R: c(person("Ahmad", "Emad", role=c("aut", "cre"), email="aemad@air.org"),
+             person("Paul", "Bailey", role=c("aut"), email="pbailey@air.org"))
+Author: Ahmad Emad [aut, cre], Paul Bailey [aut]
+Maintainer: Ahmad Emad <aemad@air.org>
+Depends: R (>= 3.2.0), data.table, lfactors
+Description: Augments base merge function with verbose output.
+License: GPL-2
